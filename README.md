@@ -1,0 +1,1 @@
+O conteúdo praticado nesse repositório faz parte do **Curso Completo de C# e Programação Orientada a Objetos** do professor Nelio Alves, e me serviu para consolidar os conhecimentos aprendidos de **Git e GitHub** no curso.
